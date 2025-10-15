@@ -1,0 +1,17 @@
+[
+    {
+      "name": "csv-plugin",
+      "description": "Read and scan CSV files",
+      "repoUrl": "https://github.com/SaidAmirkhon95/csv-plugin.git",
+      "version": "1.0.0",
+      "author": "Said Amirkhon"
+    },
+    {
+      "name": "mysql-plugin",
+      "description": "Connect to MySQL databases",
+      "repoUrl": "https://github.com/SaidAmirkhon95/mysql-plugin.git",
+      "version": "1.0.0",
+      "author": "Said Amirkhon"
+    }
+  ]
+  
